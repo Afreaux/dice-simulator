@@ -15,6 +15,24 @@
    That program make your RPG session more easy and simple. Roll the dice never been easier and fun.
 </p>
 
+<p>
+    ______________________________________________________________________________________________________________________
+   Código criado inteiramente por BrantLauro - github.com/BrantLauro | Link original: github.com/BrantLauro/dice-simulator.
+   Fork feito para trabalho de ciência da computação da Univali | Professor Felipe Viel.
+    
+    Sobre o código: O código importa a biblioteca randint para poder usar a função de gerar números aleatórios.
+    Utiliza uma variável "choice" para armazenar a escolha do usuário (o programa faz uso de whiles para garantir que os inputs sejam válidos), no caso de input de negação, o programa termina.
+    Caso a escolha seja positiva, o programa entra outro while perguntando qual opção de dado o usuário deseja, feito a escolha, o programa faz uso da função randint baseado na escolha do usuário e retorna o resultado. 
+    O programa então "limpa" as variáveis e retorna ao menu principal.
+    ______________________________________________________________________________________________________________________
+        
+    
+    
+
+    
+</p>
+
+
 ```
  ____  _            ____  _                 _       _             
 |  _ \(_) ___ ___  / ___|(_)_ __ ___  _   _| | __ _| |_ ___  _ __ 
