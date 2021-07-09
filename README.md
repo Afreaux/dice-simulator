@@ -15,10 +15,12 @@
    That program make your RPG session more easy and simple. Roll the dice never been easier and fun.
 </p>
 
-<h2>Trabalho de ciência da computação da Univali | Prof Felipe Viel | Alunos Enzo Martins E Giovani Dalpiaz.</h2>
-<h2>Código criado inteiramente por:</h2>
+<h2>Trabalho de ciência da computação da Univali </h2>
+<h2>Professor: Felipe Viel
+<h2>Alunos: Enzo Martins E Giovani Dalpiaz.</h2>
+<h2>Sobre a origem do código</h2>
 <p>
-        BrantLauro - github.com/BrantLauro | Link original: github.com/BrantLauro/dice-simulator.
+        Criado inteiramente por BrantLauro - github.com/BrantLauro | Link original: github.com/BrantLauro/dice-simulator.
    Fork feito para trabalho de ciência da computação da Univali | Professor Felipe Viel.
 </p>
     
