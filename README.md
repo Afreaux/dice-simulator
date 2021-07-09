@@ -23,6 +23,10 @@
         Criado inteiramente por BrantLauro - github.com/BrantLauro | Link original: github.com/BrantLauro/dice-simulator.
         Fork feito para fins acadêmicos.
 </p>
+<p>
+Link para o programa no Jupyter: colab.research.google.com/drive/1JVImhtIVDUz49NpD6ZyxKzwHkB-ElmRI?authuser=1    
+</p>
+ 
     
 <h2>Sobre o código: </h2>
 <p>
