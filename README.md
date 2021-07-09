@@ -21,7 +21,7 @@
 <h2>Sobre a origem do código</h2>
 <p>
         Criado inteiramente por BrantLauro - github.com/BrantLauro | Link original: github.com/BrantLauro/dice-simulator.
-   Fork feito para trabalho de ciência da computação da Univali | Professor Felipe Viel.
+        Fork feito para fins acadêmicos.
 </p>
     
 <h2>Sobre o código: </h2>
