@@ -32,7 +32,11 @@ Utiliza uma variável "choice" para armazenar a escolha do usuário (o programa 
 
 Caso a escolha seja positiva, o programa entra outro while perguntando qual opção de dado o usuário deseja, feito a escolha, o programa faz uso da função randint baseado         na escolha do usuário e retorna o resultado. 
 O programa então "limpa" as variáveis e retorna ao menu principal
+    
+Mais informações no README original abaixo.
 </p>
+    
+
 
 
 ```
