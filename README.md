@@ -17,7 +17,7 @@
 
 <h2>Trabalho de ciência da computação da Univali </h2>
 <h2>Professor: Felipe Viel
-<h2>Alunos: Enzo Martins E Giovani Dalpiaz.</h2>
+<h2>Alunos: Enzo Martins e Giovani Dalpiaz.</h2>
 <h2>Sobre a origem do código</h2>
 <p>
         Criado inteiramente por BrantLauro - github.com/BrantLauro | Link original: github.com/BrantLauro/dice-simulator.
